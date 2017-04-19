@@ -1,5 +1,4 @@
 user_id,blanks,comments,language,cloc,avg_memory,wall_clock,system_time,compiler_version,nbr_file_in,compiled,swap_main_memory,avg_RAM,exit_code,nbr_file_out,nbr_page_faults,exe_size,max_RAM,user_time
-,1,10,Python,47,,,,,,,,,,,,,,
 0w1,0,0,C++,14,0,0.00,0.00,-,0,0,0,0,0,0,0,7216,2256,0.00
 0x1337,6,0,C++,36,0,0.00,0.00,-,0,0,0,0,0,0,0,10072,2632,0.00
 0x42,28,1,Java,64,0,0.04,0.00,-,0,1,0,0,1,64,0,-,21200,0.04

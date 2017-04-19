@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 user_id,blanks,comments,language,cloc,avg_memory,wall_clock,system_time,compiler_version,nbr_file_in,compiled,swap_main_memory,avg_RAM,exit_code,nbr_file_out,nbr_page_faults,exe_size,max_RAM,user_time
 ,1,10,Python,47,,,,,,,,,,,,,,
 0w1,0,0,C++,14,0,0.00,0.00,-,0,0,0,0,0,0,0,7216,2256,0.00
@@ -2491,5 +2492,4 @@ zuencap,71,24,Java,395,0,0.04,0.00,-,0,0,0,0,1,64,0,-,21592,0.04
 zukky162,3,2,C++,47,0,0.00,0.00,-,0,0,0,0,0,0,0,11416,2588,0.00
 zwzw,1,0,Python,12,0,0.00,0.00,2.7,0,0,0,0,2,0,0,-,6112,0.00
 zxytim,10,7,Python,16,0,0.00,0.00,2.7,8,0,0,0,0,0,0,-,6520,0.00
-
 zzh8829,7,0,C++,51,0,0.00,0.00,-,0,0,0,0,0,0,0,8224,2600,0.00

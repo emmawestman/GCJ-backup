@@ -1,5 +1,5 @@
 user_id,avg_memory,wall_clock,system_time,blanks,language,compiler_version,cloc,nbr_file_in,compiled,swap_main_memory,avg_RAM,exit_code,comments,nbr_file_out,nbr_page_faults,exe_size,max_RAM,user_time
-,-,-,-,1,Python,-,67,-,-,-,-,-,7,-,-,-,-,-
+NaN,-,-,-,1,Python,-,67,-,-,-,-,-,7,-,-,-,-,-
 Mitsaras,-,-,-,7,C,-,40,-,-,-,-,-,0,-,-,-,-,-
 tilarids,-,-,-,12,Python,-,47,-,-,-,-,-,2,-,-,-,-,-
 Chitly,-,-,-,0,C++,-,52,-,-,-,-,-,0,-,-,-,-,-
@@ -470,7 +470,6 @@ manandsea,-,-,-,4,C++,-,44,-,-,-,-,-,0,-,-,-,-,-
 Demjan,-,-,-,18,C++,-,50,-,-,-,-,-,0,-,-,-,-,-
 IgelSK,-,-,-,18,C++,-,77,-,-,-,-,-,5,-,-,-,-,-
 CaiZhicong,-,-,-,5,C++,-,98,-,-,-,-,-,2,-,-,-,-,-
-NaN,1,Python,7,67
 lqs,-,-,-,8,C++,-,42,-,-,-,-,-,4,-,-,-,-,-
 sazas,-,-,-,6,C++,-,66,-,-,-,-,-,0,-,-,-,-,-
 rebelation,-,-,-,4,Java,-,43,-,-,-,-,-,3,-,-,-,-,-

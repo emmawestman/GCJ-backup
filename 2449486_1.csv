@@ -1,5 +1,5 @@
 user_id,avg_memory,wall_clock,system_time,blanks,language,compiler_version,cloc,nbr_file_in,compiled,swap_main_memory,avg_RAM,exit_code,comments,nbr_file_out,nbr_page_faults,exe_size,max_RAM,user_time
-,-,-,-,1,Python,-,74,-,-,-,-,-,0,-,-,-,-,-
+NaN,-,-,-,1,Python,-,74,-,-,-,-,-,0,-,-,-,-,-
 00wuyu00,0,0.00,0.00,3,C++,-,43,0,0,0,0,0,0,0,0,9744,2608,0.00
 0673nC,0,0.01,0.00,6,C++,-,53,0,0,0,0,0,2,0,0,9664,2684,0.00
 0x0,0,0.29,0.02,5,Java,-,49,0,0,0,0,0,6,64,0,-,61608,0.26

@@ -1,5 +1,5 @@
 user_id,avg_memory,wall_clock,system_time,blanks,language,compiler_version,cloc,nbr_file_in,compiled,swap_main_memory,avg_RAM,exit_code,comments,nbr_file_out,nbr_page_faults,exe_size,max_RAM,user_time
-,,,,1,Python,,65,,,,,,0,,,,,
+NaN,,,,1,Python,,65,,,,,,0,,,,,
 0w1,0,0.01,0.00,0,C++,-,34,0,0.0,0,0,0.0,0,0,0,32960,2388,0.00
 200,,,,11,Python,,41,,,,,,0,,,,,
 8cbx,0,0.00,0.00,0,C++,-,80,0,1.0,0,0,127.0,13,0,0,-,1432,0.00

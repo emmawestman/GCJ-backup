@@ -1,86 +1,223 @@
-user_id,blanks,comments,language,cloc
-YerzhanU,22,3,C++,124
-Nin0,9,2,Python,78
-nicesap,45,7,C++,212
-NGG,10,0,C++,88
-tkociumaka,11,1,C++,133
-rush0,15,2,C++,143
-hanhan0912,8,12,C++,146
-Xay,9,2,C++,108
-qq20091200,19,0,C++,177
-maciejk,21,3,C++,156
-Yao,7,3,C,105
-sandipg,22,9,C++,112
-IsawaSteve,9,10,java,128
-yarrr,51,0,C++,135
-exod40,41,6,C++,128
-ttim,40,34,java,179
-npinsker,27,8,C++,91
-Taehyun,0,1,C++,105
-JialinOuyang,27,0,C++,167
-khuebeo,38,10,C++,142
-xs0,25,0,java,193
-tokoharu,44,29,C++,116
-klemen,20,2,C++,146
-KirarinSnow,7,5,Python,6
-Ripatti,29,2,C++,195
-Kezeile,1,15,java,104
-Goblin911,1,0,C++,28
-plamenko,15,21,C++,127
-turbin,13,2,C++,92
-XraY,27,4,C++,153
-svanidz1,4,0,C++,36
-billynyh,25,16,C++,85
-Arios,13,0,C++,115
-HaaS,20,4,C++,112
-Uran,12,24,C++,158
-maverick0122,16,7,C++,112
-DCLXVI,36,9,C++,262
-AS1,21,6,C++,182
-xiaodao,27,3,C++,139
-Echo80313,2,28,C++,59
-klad2008,0,0,C++,131
-kcd,23,3,C++,190
-KapJI,10,16,C++,135
-MiminoCoder,26,3,C++,166
-Zuza,35,9,C++,126
-bjano,27,7,java,124
-Baker,33,15,C++,205
-Dener,39,7,C++,158
-lopek,14,1,C++,137
-udalov,22,2,C++,116
-xiangnash,20,11,C++,165
-vvn,51,0,java,216
-pjsdream,32,0,C++,115
-LinKin,16,3,C++,131
-enkait,8,0,C++,133
-Arti1990,36,10,C++,177
-NovGosh,45,5,C++,167
-darkKelvin,1,0,C++,113
-AekdyCoin,0,0,C++,79
-vlpolyansky,22,0,java,159
-qxect,32,1,C++,195
-wyl8899,14,7,C++,118
-waynenguyen,10,8,C++,135
-Bidhan,12,21,C++,159
-jamu,32,1,java,120
-IP314,11,0,C++,159
-MikeCAT,22,0,C,199
-eatmore,19,0,java,161
-tracyhenry,13,3,C++,141
-Ignat,33,4,C++,174
-staniek,9,10,C++,111
-ahaigh,24,32,C++,122
-jmurray,5,3,C++,83
-Dembel,28,27,C++,184
-alan790712,3,5,C,87
-ir5,24,10,C++,148
-Voro,45,1,C++,126
-Gluk,21,1,C++,108
-fetetriste,25,1,java,242
-robert1232,12,2,java,181
-meret,13,0,C++,158
-xiaowuc1,14,12,java,176
-sokokaleb,21,1,C++,246
-Martynas,6,0,C++,111
-zhanyl,11,18,C++,133
+user_id,avg_memory,wall_clock,system_time,blanks,compiler_version,language,cloc,nbr_file_in,compiled,swap_main_memory,avg_RAM,exit_code,comments,nbr_file_out,nbr_page_faults,exe_size,compile_error_msg,run_error_msg,max_RAM,user_time
+AS1,-,-,-,21,-,C++,182,-,0,-,-,-15,6,-,-,104472,-,Timeout,-,-
+AekdyCoin,-,-,-,0,-,C++,79,-,0,-,-,-15,0,-,-,30136,-,Timeout,-,-
+Arios,0,0.03,0.00,13,-,C++,115,0,0,0,0,0,0,0,0,37696,-,-,22860,0.02
+Arti1990,-,-,-,36,-,C++,177,-,1,-,-,-1,10,-,-,-,"/home/useruser/datacollection/solutions_2755486_1/C++/Arti1990/c.cpp: In function ‘int main()’:
+/home/useruser/datacollection/solutions_2755486_1/C++/Arti1990/c.cpp:18:60: error: ‘typeof’ was not declared in this scope
+ #define foreach(iter, coll)         for(typeof(coll.begin()) iter = coll.begin(); iter != coll.end(); ++iter)
+                                                            ^
+/home/useruser/datacollection/solutions_2755486_1/C++/Arti1990/c.cpp:157:9: note: in expansion of macro ‘foreach’
+         foreach(it, S)
+         ^
+/home/useruser/datacollection/solutions_2755486_1/C++/Arti1990/c.cpp:157:17: error: ‘it’ was not declared in this scope
+         foreach(it, S)
+                 ^
+/home/useruser/datacollection/solutions_2755486_1/C++/Arti1990/c.cpp:18:83: note: in definition of macro ‘foreach’
+ #define foreach(iter, coll)         for(typeof(coll.begin()) iter = coll.begin(); iter != coll.end(); ++iter)
+                                                                                   ^
+/home/useruser/datacollection/solutions_2755486_1/C++/Arti1990/c.cpp:18:60: error: ‘typeof’ was not declared in this scope
+ #define foreach(iter, coll)         for(typeof(coll.begin()) iter = coll.begin(); iter != coll.end(); ++iter)
+                                                            ^
+/home/useruser/datacollection/solutions_2755486_1/C++/Arti1990/c.cpp:165:9: note: in expansion of macro ‘foreach’
+         foreach(it, mapa)
+         ^
+/home/useruser/datacollection/solutions_2755486_1/C++/Arti1990/c.cpp:165:17: error: ‘it’ was not declared in this scope
+         foreach(it, mapa)
+                 ^
+/home/useruser/datacollection/solutions_2755486_1/C++/Arti1990/c.cpp:18:83: note: in definition of macro ‘foreach’
+ #define foreach(iter, coll)         for(typeof(coll.begin()) iter = coll.begin(); iter != coll.end(); ++iter)
+                                                                                   ^
+/home/useruser/datacollection/solutions_2755486_1/C++/Arti1990/c.cpp:18:60: error: ‘typeof’ was not declared in this scope
+ #define foreach(iter, coll)         for(typeof(coll.begin()) iter = coll.begin(); iter != coll.end(); ++iter)
+                                                            ^
+/home/useruser/datacollection/solutions_2755486_1/C++/Arti1990/c.cpp:171:9: note: in expansion of macro ‘foreach’
+         foreach(it, S)
+         ^
+/home/useruser/datacollection/solutions_2755486_1/C++/Arti1990/c.cpp:171:17: error: ‘it’ was not declared in this scope
+         foreach(it, S)
+                 ^
+/home/useruser/datacollection/solutions_2755486_1/C++/Arti1990/c.cpp:18:83: note: in definition of macro ‘foreach’
+ #define foreach(iter, coll)         for(typeof(coll.begin()) iter = coll.begin(); iter != coll.end(); ++iter)
+                                                                                   ^
+/home/useruser/datacollection/solutions_2755486_1/C++/Arti1990/c.cpp:18:60: error: ‘typeof’ was not declared in this scope
+ #define foreach(iter, coll)         for(typeof(coll.begin()) iter = coll.begin(); iter != coll.end(); ++iter)
+                                                            ^
+/home/useruser/datacollection/solutions_2755486_1/C++/Arti1990/c.cpp:191:9: note: in expansion of macro ‘foreach’
+         foreach(it, S2)
+         ^
+/home/useruser/datacollection/solutions_2755486_1/C++/Arti1990/c.cpp:191:17: error: ‘it’ was not declared in this scope
+         foreach(it, S2)
+                 ^
+/home/useruser/datacollection/solutions_2755486_1/C++/Arti1990/c.cpp:18:83: note: in definition of macro ‘foreach’
+ #define foreach(iter, coll)         for(typeof(coll.begin()) iter = coll.begin(); iter != coll.end(); ++iter)
+                                                                                   ^
+/home/useruser/datacollection/solutions_2755486_1/C++/Arti1990/c.cpp:195:25: error: ‘itt’ was not declared in this scope
+                 foreach(itt, do_wpisania)
+                         ^
+/home/useruser/datacollection/solutions_2755486_1/C++/Arti1990/c.cpp:18:83: note: in definition of macro ‘foreach’
+ #define foreach(iter, coll)         for(typeof(coll.begin()) iter = coll.begin(); iter != coll.end(); ++iter)
+                                                                                   ^
+",,-,-
+Baker,0,0.00,0.00,33,-,C++,205,0,1,0,0,127,15,0,0,-,"/home/useruser/datacollection/solutions_2755486_1/C++/Baker/C: file not recognized: File truncated
+collect2: error: ld returned 1 exit status
+",Command exited with non-zero status 127,1432,0.00
+Bidhan,-,-,-,12,-,C++,159,-,0,-,-,-15,21,-,-,76960,-,Timeout,-,-
+DCLXVI,-,-,-,36,-,C++,262,-,0,-,-,-15,9,-,-,39480,-,Timeout,-,-
+Dembel,-,-,-,28,-,C++,184,-,0,-,-,-15,27,-,-,59000,-,Timeout,-,-
+Dener,-,-,-,39,-,C++,158,-,0,-,-,-15,7,-,-,73344,-,Timeout,-,-
+Echo80313,-,-,-,2,-,C++,59,-,1,-,-,-1,28,-,-,-,"/home/useruser/datacollection/solutions_2755486_1/C++/Echo80313/c.cpp: In function ‘int main()’:
+/home/useruser/datacollection/solutions_2755486_1/C++/Echo80313/c.cpp:87:35: error: ‘kase’ was not declared in this scope
+         printf(""Case #%d: %lld\n"",kase+1,ans);
+                                   ^
+/home/useruser/datacollection/solutions_2755486_1/C++/Echo80313/c.cpp: At global scope:
+/home/useruser/datacollection/solutions_2755486_1/C++/Echo80313/c.cpp:89:1: error: expected declaration before ‘}’ token
+ }
+ ^
+",,-,-
+Gluk,0,0.00,0.00,21,-,C++,108,0,0,0,0,0,1,0,0,41440,-,-,2504,0.00
+Goblin911,0,0.00,0.00,1,-,C++,28,0,0,0,0,0,0,0,0,10016,-,-,2620,0.00
+HaaS,-,-,-,20,-,C++,112,-,0,-,-,-15,4,-,-,89912,-,Timeout,-,-
+IP314,-,-,-,11,-,C++,159,-,0,-,-,-15,0,-,-,54448,-,Timeout,-,-
+Ignat,-,-,-,33,-,C++,174,-,0,-,-,-15,4,-,-,94784,-,Timeout,-,-
+IsawaSteve,,,,9,,java,128,,,,,,10,,,,,,,
+JialinOuyang,-,-,-,27,-,C++,167,-,1,-,-,-1,0,-,-,-,"/home/useruser/datacollection/solutions_2755486_1/C++/JialinOuyang/C-small.cpp: In function ‘int main()’:
+/home/useruser/datacollection/solutions_2755486_1/C++/JialinOuyang/C-small.cpp:30:44: error: ‘typeof’ was not declared in this scope
+ #define FOREACH(i,v) for(typeof((v).begin()) i=(v).begin();i!=(v).end();i++)
+                                            ^
+/home/useruser/datacollection/solutions_2755486_1/C++/JialinOuyang/C-small.cpp:182:4: note: in expansion of macro ‘FOREACH’
+    FOREACH(it, attacks[day]) {
+    ^
+/home/useruser/datacollection/solutions_2755486_1/C++/JialinOuyang/C-small.cpp:182:12: error: ‘it’ was not declared in this scope
+    FOREACH(it, attacks[day]) {
+            ^
+/home/useruser/datacollection/solutions_2755486_1/C++/JialinOuyang/C-small.cpp:30:60: note: in definition of macro ‘FOREACH’
+ #define FOREACH(i,v) for(typeof((v).begin()) i=(v).begin();i!=(v).end();i++)
+                                                            ^
+/home/useruser/datacollection/solutions_2755486_1/C++/JialinOuyang/C-small.cpp:184:24: error: ‘e’ was not declared in this scope
+     res += smt.calc(w, e).lowest < it->s;
+                        ^
+/home/useruser/datacollection/solutions_2755486_1/C++/JialinOuyang/C-small.cpp:30:44: error: ‘typeof’ was not declared in this scope
+ #define FOREACH(i,v) for(typeof((v).begin()) i=(v).begin();i!=(v).end();i++)
+                                            ^
+/home/useruser/datacollection/solutions_2755486_1/C++/JialinOuyang/C-small.cpp:186:4: note: in expansion of macro ‘FOREACH’
+    FOREACH(it, attacks[day]) {
+    ^
+/home/useruser/datacollection/solutions_2755486_1/C++/JialinOuyang/C-small.cpp:186:12: error: ‘it’ was not declared in this scope
+    FOREACH(it, attacks[day]) {
+            ^
+/home/useruser/datacollection/solutions_2755486_1/C++/JialinOuyang/C-small.cpp:30:60: note: in definition of macro ‘FOREACH’
+ #define FOREACH(i,v) for(typeof((v).begin()) i=(v).begin();i!=(v).end();i++)
+                                                            ^
+/home/useruser/datacollection/solutions_2755486_1/C++/JialinOuyang/C-small.cpp:188:19: error: ‘e’ was not declared in this scope
+     smt.modify(w, e, it->s);
+                   ^
+",,-,-
+KapJI,0,0.00,0.00,10,-,C++,135,0,0,0,0,0,16,0,0,32272,-,-,2464,0.00
+Kezeile,,,,1,,java,104,,,,,,15,,,,,,,
+KirarinSnow,0,0.03,0.00,7,2.7,Python,6,0,0,0,0,0,5,0,0,402,-,-,6972,0.02
+LinKin,0,0.00,0.00,16,-,C++,131,0,1,0,0,127,3,0,0,-,"/home/useruser/datacollection/solutions_2755486_1/C++/LinKin/c: file not recognized: File truncated
+collect2: error: ld returned 1 exit status
+",Command exited with non-zero status 127,1384,0.00
+Martynas,-,-,-,6,-,C++,111,-,0,-,-,-15,0,-,-,51208,-,Timeout,-,-
+MikeCAT,-,-,-,22,-,C,199,-,0,-,-,-15.0,0,-,-,13784,-,Timeout,-,-
+MiminoCoder,-,-,-,26,-,C++,166,-,0,-,-,-15,3,-,-,37920,-,Timeout,-,-
+NGG,0,5.14,0.05,10,-,C++,88,0,0,0,0,0,0,0,0,36888,-,-,99588,3.48
+Nin0,-,-,-,9,2.7,Python,78,-,0,-,-,-15,2,-,-,3536,-,Timeout,-,-
+NovGosh,-,-,-,45,-,C++,167,-,0,-,-,-15,5,-,-,63032,-,Timeout,-,-
+Ripatti,0,0.01,0.00,29,-,C++,195,0,0,0,0,0,2,0,0,59096,-,-,41480,0.00
+Taehyun,-,-,-,0,-,C++,105,-,4,-,-,-1,1,-,-,-,"g++: error: /home/useruser/datacollection/solutions_2755486_1/C++/Taehyun/The: No such file or directory
+g++: error: Great: No such file or directory
+g++: error: Wall.cpp: No such file or directory
+g++: error: Great: No such file or directory
+g++: error: Wall: No such file or directory
+g++: fatal error: no input files
+compilation terminated.
+",,-,-
+Uran,-,-,-,12,-,C++,158,-,1,-,-,-1,24,-,-,-,"/home/useruser/datacollection/solutions_2755486_1/C++/Uran/C.cpp:46:12: error: ‘w’ has not been declared
+ OUT(query, w) {
+            ^
+/home/useruser/datacollection/solutions_2755486_1/C++/Uran/C.cpp:46:13: error: ISO C++ forbids declaration of ‘OUT’ with no type [-fpermissive]
+ OUT(query, w) {
+             ^
+/home/useruser/datacollection/solutions_2755486_1/C++/Uran/C.cpp: In function ‘int OUT(query, int)’:
+/home/useruser/datacollection/solutions_2755486_1/C++/Uran/C.cpp:47:5: error: ‘o’ was not declared in this scope
+     o << ""{ time: "" << w.t << "" "" <<
+     ^
+/home/useruser/datacollection/solutions_2755486_1/C++/Uran/C.cpp:47:24: error: ‘w’ was not declared in this scope
+     o << ""{ time: "" << w.t << "" "" <<
+                        ^
+",,-,-
+Voro,0,0.00,0.00,45,-,C++,126,0,1,0,0,127,1,0,0,-,"/home/useruser/datacollection/solutions_2755486_1/C++/Voro/tractor: file not recognized: File truncated
+collect2: error: ld returned 1 exit status
+",Command exited with non-zero status 127,1440,0.00
+Xay,-,-,-,9,-,C++,108,-,0,-,-,-15,2,-,-,65280,-,Timeout,-,-
+XraY,-,-,-,27,-,C++,153,-,0,-,-,-15,4,-,-,30864,-,Timeout,-,-
+Yao,-,-,-,7,-,C,105,-,0,-,-,-15.0,3,-,-,10672,-,Timeout,-,-
+YerzhanU,-,-,-,22,-,C++,124,-,0,-,-,-15,3,-,-,29288,-,Timeout,-,-
+Zuza,-,-,-,35,-,C++,126,-,0,-,-,-15,9,-,-,91384,-,Timeout,-,-
+ahaigh,-,-,-,24,-,C++,122,-,1,-,-,-1,32,-,-,-,"/home/useruser/datacollection/solutions_2755486_1/C++/ahaigh/C.cpp:17:19: fatal error: gmpxx.h: No such file or directory
+ #include ""gmpxx.h""
+                   ^
+compilation terminated.
+",,-,-
+alan790712,-,-,-,3,-,C,87,-,0,-,-,-15.0,5,-,-,9472,-,Timeout,-,-
+billynyh,-,-,-,25,-,C++,85,-,0,-,-,-15,16,-,-,64168,-,Timeout,-,-
+bjano,,,,27,,java,124,,,,,,7,,,,,,,
+darkKelvin,-,-,-,1,-,C++,113,-,0,-,-,-15,0,-,-,36552,-,Timeout,-,-
+eatmore,,,,19,,java,161,,,,,,0,,,,,,,
+enkait,-,-,-,8,-,C++,133,-,0,-,-,-15,0,-,-,40320,-,Timeout,-,-
+exod40,-,-,-,41,-,C++,128,-,1,-,-,-1,6,-,-,-,"/home/useruser/datacollection/solutions_2755486_1/C++/exod40/c.cpp: In function ‘void solve()’:
+/home/useruser/datacollection/solutions_2755486_1/C++/exod40/c.cpp:130:34: error: ‘memset’ was not declared in this scope
+  memset ( temp , 0 , sizeof temp );
+                                  ^
+",,-,-
+fetetriste,,,,25,,java,242,,,,,,1,,,,,,,
+hanhan0912,-,-,-,8,-,C++,146,-,0,-,-,-15,12,-,-,32920,-,Timeout,-,-
+ir5,-,-,-,24,-,C++,148,-,0,-,-,-15,10,-,-,74424,-,Timeout,-,-
+jamu,,,,32,,java,120,,,,,,1,,,,,,,
+jmurray,-,-,-,5,-,C++,83,-,0,-,-,-15,3,-,-,47576,-,Timeout,-,-
+kcd,0,0.00,0.00,23,-,C++,190,0,0,0,0,134,3,0,0,134496,-,  what():  basic_filebuf::underflow error reading the file Aborted Command exited with non-zero status 134,2748,0.00
+khuebeo,-,-,-,38,-,C++,142,-,0,-,-,-15,10,-,-,44392,-,Timeout,-,-
+klad2008,-,-,-,0,-,C++,131,-,0,-,-,-15,0,-,-,26592,-,Timeout,-,-
+klemen,-,-,-,20,-,C++,146,-,0,-,-,-15,2,-,-,46160,-,Timeout,-,-
+lopek,-,-,-,14,-,C++,137,-,0,-,-,-15,1,-,-,40048,-,Timeout,-,-
+maciejk,-,-,-,21,-,C++,156,-,0,-,-,-15,3,-,-,76824,-,Timeout,-,-
+maverick0122,0,0.03,0.00,16,-,C++,112,0,0,0,0,0,7,0,0,10160,-,-,2228,0.00
+meret,-,-,-,13,-,C++,158,-,0,-,-,-15,0,-,-,67088,-,Timeout,-,-
+nicesap,-,-,-,45,-,C++,212,-,0,-,-,-15,7,-,-,75528,-,Timeout,-,-
+npinsker,-,-,-,27,-,C++,91,-,0,-,-,-15,8,-,-,78784,-,Timeout,-,-
+pjsdream,0,0.00,0.00,32,-,C++,115,0,0,0,0,0,0,0,0,28456,-,-,2300,0.00
+plamenko,0,0.01,0.00,15,-,C++,127,0,0,0,0,0,21,0,0,89800,-,-,2488,0.00
+qq20091200,0,0.85,0.02,19,-,C++,177,0,0,0,0,0,0,137184,0,40848,-,-,2628,0.54
+qxect,-,-,-,32,-,C++,195,-,0,-,-,-15,1,-,-,85928,-,Timeout,-,-
+robert1232,,,,12,,java,181,,,,,,2,,,,,,,
+rush0,-,-,-,15,-,C++,143,-,0,-,-,-15,2,-,-,46512,-,Timeout,-,-
+sandipg,-,-,-,22,-,C++,112,-,1,-,-,-1,9,-,-,-,"/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu/crt1.o: In function `_start':
+(.text+0x20): undefined reference to `main'
+collect2: error: ld returned 1 exit status
+",,-,-
+sokokaleb,-,-,-,21,-,C++,246,-,2,-,-,-1,1,-,-,-,"/bin/sh: 1: Syntax error: ""("" unexpected
+",,-,-
+staniek,-,-,-,9,-,C++,111,-,0,-,-,-15,10,-,-,58392,-,Timeout,-,-
+svanidz1,0,0.07,0.00,4,-,C++,36,0,0,0,0,0,0,0,0,20696,-,-,26080,0.03
+tkociumaka,-,-,-,11,-,C++,133,-,0,-,-,-15,1,-,-,50288,-,Timeout,-,-
+tokoharu,-,-,-,44,-,C++,116,-,0,-,-,-15,29,-,-,58304,-,Timeout,-,-
+tracyhenry,0,0.00,0.00,13,-,C++,141,0,0,0,0,0,3,0,0,90112,-,-,2512,0.00
+ttim,,,,40,,java,179,,,,,,34,,,,,,,
+turbin,-,-,-,13,-,C++,92,-,0,-,-,-15,2,-,-,30848,-,Timeout,-,-
+udalov,-,-,-,22,-,C++,116,-,1,-,-,-1,2,-,-,-,"/home/useruser/datacollection/solutions_2755486_1/C++/udalov/main.cpp: In function ‘int main()’:
+/home/useruser/datacollection/solutions_2755486_1/C++/udalov/main.cpp:91:83: sorry, unimplemented: non-trivial designated initializers not supported
+                         .delta_p=a.delta_p, .delta_s=a.delta_s, .delta_d=a.delta_d};
+                                                                                   ^
+/home/useruser/datacollection/solutions_2755486_1/C++/udalov/main.cpp:91:83: sorry, unimplemented: non-trivial designated initializers not supported
+",,-,-
+vlpolyansky,,,,22,,java,159,,,,,,0,,,,,,,
+vvn,,,,51,,java,216,,,,,,0,,,,,,,
+waynenguyen,0,0.01,0.00,10,-,C++,135,0,0,0,0,0,8,0,0,70592,-,-,2644,0.00
+wyl8899,-,-,-,14,-,C++,118,-,0,-,-,-15,7,-,-,30088,-,Timeout,-,-
+xiangnash,-,-,-,20,-,C++,165,-,0,-,-,-15,11,-,-,36176,-,Timeout,-,-
+xiaodao,-,-,-,27,-,C++,139,-,0,-,-,-15,3,-,-,66536,-,Timeout,-,-
+xiaowuc1,,,,14,,java,176,,,,,,12,,,,,,,
+xs0,,,,25,,java,193,,,,,,0,,,,,,,
+yarrr,-,-,-,51,-,C++,135,-,0,-,-,-15,0,-,-,34440,-,Timeout,-,-
+zhanyl,0,0.00,0.00,11,-,C++,133,0,0,0,0,0,18,0,0,53616,-,-,2268,0.00

@@ -1,163 +1,492 @@
-user_id,blanks,comments,language,cloc
-Kurenai,4,44,java,3
-edemo,20,2,Python,58
-sions,29,28,Python,98
-BNieuwenhuizen,5,13,C++,146
-sankear,10,0,C++,209
-yarrr,56,4,java,218
-Eryx,36,15,C++,159
-Sharph,19,0,C++,106
-Balajiganapathi,30,22,C++,187
-tomlau,26,18,C++,107
-JohnSmith,37,6,C++,165
-tokoharu,15,9,C++,138
-natsugiri,19,0,C++,99
-AngryBacon,18,2,C++,135
-pawsikora,12,14,C++,111
-Bigmac,2,21,C++,237
-Jonasz,26,5,C++,212
-harshvv1991,32,0,C++,148
-alberist2,13,4,Python,146
-Dmytro,2,61,java,11
-strapahuulius,0,0,C++,157
-rudradevbasak,61,29,C++,280
-Grzesiu,14,0,Python,49
-romanandreev,10,3,C++,196
-netkuba,24,11,C++,145
-Edvard,49,0,C++,179
-devjoe,7,30,Python,110
-ZhSh,44,108,C++,252
-tmt514,5,0,C++,79
-AlvinChow,24,9,C#,170
-krijgertje,21,11,C++,139
-ogiekako,30,5,java,273
-maciejk,22,1,C++,203
-misof,20,24,C++,209
-squahtx,36,6,C++,191
-STEP5,21,0,C++,151
-triceps,5,0,C++,104
-Efyx,20,4,java,119
-Charlene,27,7,C++,88
-SeeBees,60,25,java,193
-Soultaker,85,70,C++,608
-tkociumaka,8,2,C++,170
-fiver,33,2,C#,223
-fuqinho,26,22,C++,230
-ll931110,10,7,C++,160
-SergeyWeiss,15,0,java,177
-Binnie,10,16,Python,60
-ameboide,18,0,C#,136
-Sfairat,66,3,C++,228
-Miceren,8,0,C++,136
-aillescas,26,20,Python,73
-sourspinach,8,0,C++,89
-ashmelev,35,9,C++,203
-Hooyoung,8,0,C++,101
-YOBA,20,0,Python,51
-vedg,38,1,C++,144
-TankEngineer,12,0,C++,113
-mugurelionut,29,15,C++,130
-ASotelo,2,6,java,113
-Talibu,17,0,C++,189
-csegura,10,13,C++,146
-royf,21,2,Python,123
-scottai,4,0,C++,152
-l521530,12,4,C++,125
-kennyChiu,28,18,C++,177
-mikhailOK,29,1,java,282
-barryd,43,20,Python,178
-karlhendrikse,27,3,C++,123
-abryant,7,17,java,360
-fagu,8,4,C++,161
-Lukasz16a,17,5,C++,136
-TRYang,8,17,C++,120
-jakab922,18,0,Python,96
-Tenyoku,3,0,C++,94
-chEEtah,23,2,C++,104
-doudouille,21,12,C++,100
-Xhark,9,14,C++,190
-nirhershko,20,4,Python,85
-deniss,24,4,C++,151
-pieguy,4,0,C++,132
-Venia,4,49,java,38
-nicesap,37,3,C++,167
-fero,32,1,C++,164
-hpmv,17,5,Python,78
-gojira,9,0,C++,112
-yodabo,16,15,C#,287
-ACube,26,8,C++,152
-Maryann,2,1,C#,129
-watashi,16,0,C++,124
-lwz,0,2,C++,81
-olalia,17,0,C++,100
-cgy4ever,13,2,C++,143
-bmerry,14,0,C++,168
-hansonw,11,1,C++,122
-d6d0d1a8,4,9,C++,101
-cs2000,0,20,C++,166
-Fdg,10,1,C++,140
-phtniit,0,0,C++,7
-davidv,29,0,C++,147
-wmLiu,22,5,Python,80
-Snuke,19,0,C++,126
-paulliu,48,25,java,318
-Hydraxis,52,21,C++,220
-CatalinT,43,19,C++,136
-kcm1700,11,0,C++,160
-freak93,39,0,C++,191
-itzkow,78,38,Python,175
-Huziwara,3,0,C++,113
-SnapDragon,12,2,C++,96
-gloomcore,22,2,C++,93
-Gnurdux,6,0,C++,96
-kyuridenamida,3,57,C++,18
-homuler,6,4,java,135
-surwdkgo,14,0,C++,108
-radeye,0,0,C++,150
-vlada,62,5,Python,103
-sgtlaugh,15,0,C,73
-Vasyl,24,0,C++,145
-vot,16,6,java,179
-Griffon,28,0,java,123
-Markerstein,49,116,java,201
-GGed,6,0,C++,110
-sohelH,20,5,C++,131
-indifferent,13,2,C#,157
-dwoolley3,23,12,C#,141
-nika,16,0,C++,177
-Tellmarch,33,63,java,165
-twilight512,17,5,java,187
-khunglong,38,22,C++,162
-woodpecker112358,1,2,C++,154
-Dragoon,58,4,C++,230
-danh42,3,0,C++,162
-untitledH,17,4,C++,180
-Fcdkbear,5,1,C++,185
-hellohs,31,10,java,197
-KennyHORROR,7,1,C++,145
-jkud,6,0,Python,41
-otacon,51,4,Python,125
-Kylesky,10,1,java,116
-jxwuyi,32,13,C++,167
-Zolmeister1,9,18,Python,92
-SmartSchizo,12,1,C++,90
-dreamoon,0,1,C++,83
-tanakh,14,7,C++,91
-thocevar,9,12,C++,146
-kusano,4,0,Python,13
-sisu,18,15,C++,192
-kgorman,61,53,C#,184
-zhouxiaobo,8,0,C++,97
-maprohu,55,3,java,147
-jinlin,10,4,C++,121
-dolphinigle,17,18,C++,146
-tfliao,18,0,C++,125
-hex539,20,0,C++,132
-nbarshay,28,0,C++,147
-Alexander86,9,20,C++,157
-ryuuga,42,33,Python,158
-ZhukovDmitry,22,34,C++,248
-meret,10,0,C++,139
-AbsentMoniker,7,5,Python,154
-pivizz,25,0,C#,162
-seanwu,4,13,C++,171
+user_id,blanks,language,comments,cloc,avg_memory,wall_clock,system_time,compiler_version,nbr_file_in,compiled,swap_main_memory,avg_RAM,exit_code,nbr_file_out,nbr_page_faults,exe_size,compile_error_msg,run_error_msg,max_RAM,user_time
+ACube,26,C++,8,152,,,,,,,,,,,,,,,,
+ASotelo,2,java,6,113,0,0.14,0.00,-,0,0,0,0,1,64,0,4351,-, at java.lang.ClassLoader.defineClass1(Native Method)  at java.lang.ClassLoader.defineClass(ClassLoader.java:803)  at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)  at java.net.URLClassLoader.defineClass(URLClassLoader.java:442)  at java.net.URLClassLoader.access$100(URLClassLoader.java:64)  at java.net.URLClassLoader$1.run(URLClassLoader.java:354)  at java.net.URLClassLoader$1.run(URLClassLoader.java:348)  at java.security.AccessController.doPrivileged(Native Method)  at java.net.URLClassLoader.findClass(URLClassLoader.java:347)  at java.lang.ClassLoader.loadClass(ClassLoader.java:425)  at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)  at java.lang.ClassLoader.loadClass(ClassLoader.java:358)  at sun.launcher.LauncherHelper.checkAndLoadMain(LauncherHelper.java:482) Command exited with non-zero status 1,21540,0.04
+AbsentMoniker,7,Python,5,154,,,,,,,,,,,,,,,,
+Alexander86,9,C++,20,157,,,,,,,,,,,,,,,,
+AlvinChow,24,C#,9,170,,,,,,,,,,,,,,,,
+AngryBacon,18,C++,2,135,,,,,,,,,,,,,,,,
+BNieuwenhuizen,5,C++,13,146,,,,,,,,,,,,,,,,
+Balajiganapathi,30,C++,22,187,,,,,,,,,,,,,,,,
+Bigmac,2,C++,21,237,,,,,,,,,,,,,,,,
+Binnie,10,Python,16,60,,,,,,,,,,,,,,,,
+CatalinT,43,C++,19,136,,,,,,,,,,,,,,,,
+Charlene,27,C++,7,88,,,,,,,,,,,,,,,,
+Dmytro,2,java,61,11,-,-,-,-,-,0,-,-,-1,-,-,938,-,,-,-
+Dragoon,58,C++,4,230,,,,,,,,,,,,,,,,
+Edvard,49,C++,0,179,,,,,,,,,,,,,,,,
+Efyx,20,java,4,119,0,0.10,0.00,-,0,0,0,0,1,64,0,2623,-, at java.lang.ClassLoader.defineClass1(Native Method)  at java.lang.ClassLoader.defineClass(ClassLoader.java:803)  at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)  at java.net.URLClassLoader.defineClass(URLClassLoader.java:442)  at java.net.URLClassLoader.access$100(URLClassLoader.java:64)  at java.net.URLClassLoader$1.run(URLClassLoader.java:354)  at java.net.URLClassLoader$1.run(URLClassLoader.java:348)  at java.security.AccessController.doPrivileged(Native Method)  at java.net.URLClassLoader.findClass(URLClassLoader.java:347)  at java.lang.ClassLoader.loadClass(ClassLoader.java:425)  at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)  at java.lang.ClassLoader.loadClass(ClassLoader.java:358)  at sun.launcher.LauncherHelper.checkAndLoadMain(LauncherHelper.java:482) Command exited with non-zero status 1,21436,0.04
+Eryx,36,C++,15,159,,,,,,,,,,,,,,,,
+Fcdkbear,5,C++,1,185,,,,,,,,,,,,,,,,
+Fdg,10,C++,1,140,,,,,,,,,,,,,,,,
+GGed,6,C++,0,110,,,,,,,,,,,,,,,,
+Gnurdux,6,C++,0,96,,,,,,,,,,,,,,,,
+Griffon,28,java,0,123,0,0.10,0.01,-,0,0,0,0,1,64,0,3156,-, at java.lang.ClassLoader.defineClass1(Native Method)  at java.lang.ClassLoader.defineClass(ClassLoader.java:803)  at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)  at java.net.URLClassLoader.defineClass(URLClassLoader.java:442)  at java.net.URLClassLoader.access$100(URLClassLoader.java:64)  at java.net.URLClassLoader$1.run(URLClassLoader.java:354)  at java.net.URLClassLoader$1.run(URLClassLoader.java:348)  at java.security.AccessController.doPrivileged(Native Method)  at java.net.URLClassLoader.findClass(URLClassLoader.java:347)  at java.lang.ClassLoader.loadClass(ClassLoader.java:425)  at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)  at java.lang.ClassLoader.loadClass(ClassLoader.java:358)  at sun.launcher.LauncherHelper.checkAndLoadMain(LauncherHelper.java:482) Command exited with non-zero status 1,21704,0.03
+Grzesiu,14,Python,0,49,,,,,,,,,,,,,,,,
+Hooyoung,8,C++,0,101,,,,,,,,,,,,,,,,
+Huziwara,3,C++,0,113,,,,,,,,,,,,,,,,
+Hydraxis,52,C++,21,220,,,,,,,,,,,,,,,,
+JohnSmith,37,C++,6,165,,,,,,,,,,,,,,,,
+Jonasz,26,C++,5,212,,,,,,,,,,,,,,,,
+KennyHORROR,7,C++,1,145,,,,,,,,,,,,,,,,
+Kurenai,4,java,44,3,-,-,-,-,-,1,-,-,-1,-,-,-,"/home/useruser/datacollection/solutions_2458486_1/java/Kurenai/Treasure.java:35: error: cannot find symbol
+    private static ArrayList<ChestOpener> getChests(String aFileName) throws FileNotFoundException, IOException {
+                             ^
+  symbol:   class ChestOpener
+  location: class Treasure
+/home/useruser/datacollection/solutions_2458486_1/java/Kurenai/Treasure.java:12: error: cannot find symbol
+       ArrayList<ChestOpener> chests = getChests(""C:\\Users\\Patri\\Downloads\\D-large.in"");
+                 ^
+  symbol:   class ChestOpener
+  location: class Treasure
+/home/useruser/datacollection/solutions_2458486_1/java/Kurenai/Treasure.java:16: error: cannot find symbol
+            ChestOpener chest = chests.get(0);
+            ^
+  symbol:   class ChestOpener
+  location: class Treasure
+/home/useruser/datacollection/solutions_2458486_1/java/Kurenai/Treasure.java:36: error: cannot find symbol
+        ArrayList<ChestOpener> chestOpeners = new ArrayList<ChestOpener>();
+                  ^
+  symbol:   class ChestOpener
+  location: class Treasure
+/home/useruser/datacollection/solutions_2458486_1/java/Kurenai/Treasure.java:36: error: cannot find symbol
+        ArrayList<ChestOpener> chestOpeners = new ArrayList<ChestOpener>();
+                                                            ^
+  symbol:   class ChestOpener
+  location: class Treasure
+/home/useruser/datacollection/solutions_2458486_1/java/Kurenai/Treasure.java:42: error: cannot find symbol
+            ArrayList<Chest> chests = new ArrayList<Chest>();
+                      ^
+  symbol:   class Chest
+  location: class Treasure
+/home/useruser/datacollection/solutions_2458486_1/java/Kurenai/Treasure.java:42: error: cannot find symbol
+            ArrayList<Chest> chests = new ArrayList<Chest>();
+                                                    ^
+  symbol:   class Chest
+  location: class Treasure
+/home/useruser/datacollection/solutions_2458486_1/java/Kurenai/Treasure.java:59: error: cannot find symbol
+                chests.add(new Chest(chestArray[0], chestKeys));
+                               ^
+  symbol:   class Chest
+  location: class Treasure
+/home/useruser/datacollection/solutions_2458486_1/java/Kurenai/Treasure.java:62: error: cannot find symbol
+            chestOpeners.add(new ChestOpener(chests, keys));
+                                 ^
+  symbol:   class ChestOpener
+  location: class Treasure
+9 errors
+",,-,-
+Kylesky,10,java,1,116,-,-,-,-,-,0,-,-,-15,-,-,3381,-,Timeout,-,-
+Lukasz16a,17,C++,5,136,,,,,,,,,,,,,,,,
+Markerstein,49,java,116,201,-,-,-,-,-,0,-,-,0,-,-,4841,"Note: /home/useruser/datacollection/solutions_2458486_1/java/Markerstein/Treasure.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+",SEVERE: null java.io.FileNotFoundException: in.txt (No such file or directory)  at java.io.FileInputStream.open(Native Method)  at java.io.FileInputStream.<init>(FileInputStream.java:146)  at java.util.Scanner.<init>(Scanner.java:656)  at Treasure.main(Treasure.java:121) ,-,-
+Maryann,2,C#,1,129,,,,,,,,,,,,,,,,
+Miceren,8,C++,0,136,,,,,,,,,,,,,,,,
+STEP5,21,C++,0,151,,,,,,,,,,,,,,,,
+SeeBees,60,java,25,193,-,-,-,-,-,1,-,-,-1,-,-,-,"/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:11: error: package org.jgrapht does not exist
+import org.jgrapht.Graph;
+                  ^
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:12: error: package org.jgrapht.graph does not exist
+import org.jgrapht.graph.DefaultEdge;
+                        ^
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:13: error: package org.jgrapht.graph does not exist
+import org.jgrapht.graph.SimpleDirectedGraph;
+                        ^
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:14: error: package org.jgrapht.graph does not exist
+import org.jgrapht.graph.SimpleGraph;
+                        ^
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:15: error: package org.jgrapht.traverse does not exist
+import org.jgrapht.traverse.BreadthFirstIterator;
+                           ^
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:120: error: cannot find symbol
+   Graph<Integer, DefaultEdge> g){
+   ^
+  symbol:   class Graph
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:120: error: cannot find symbol
+   Graph<Integer, DefaultEdge> g){
+                  ^
+  symbol:   class DefaultEdge
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:151: error: cannot find symbol
+   SimpleDirectedGraph<Integer, DefaultEdge> g){
+   ^
+  symbol:   class SimpleDirectedGraph
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:151: error: cannot find symbol
+   SimpleDirectedGraph<Integer, DefaultEdge> g){
+                                ^
+  symbol:   class DefaultEdge
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:222: error: cannot find symbol
+ static Graph<Integer, DefaultEdge> buildGraph(
+        ^
+  symbol:   class Graph
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:222: error: cannot find symbol
+ static Graph<Integer, DefaultEdge> buildGraph(
+                       ^
+  symbol:   class DefaultEdge
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:65: error: cannot find symbol
+   Graph<Integer, DefaultEdge> g = buildGraph(N, keysInChest, keyToChest, keysInHand);
+   ^
+  symbol:   class Graph
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:65: error: cannot find symbol
+   Graph<Integer, DefaultEdge> g = buildGraph(N, keysInChest, keyToChest, keysInHand);
+                  ^
+  symbol:   class DefaultEdge
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:78: error: cannot find symbol
+     if (allowOpen(chest, keysInHand, keyToChest, chestAccessKeys, keysInChest, (SimpleDirectedGraph<Integer, DefaultEdge>)g))
+                                                                                 ^
+  symbol:   class SimpleDirectedGraph
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:78: error: cannot find symbol
+     if (allowOpen(chest, keysInHand, keyToChest, chestAccessKeys, keysInChest, (SimpleDirectedGraph<Integer, DefaultEdge>)g))
+                                                                                                              ^
+  symbol:   class DefaultEdge
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:173: error: cannot find symbol
+  g = (SimpleDirectedGraph<Integer, DefaultEdge>) g.clone();
+       ^
+  symbol:   class SimpleDirectedGraph
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:173: error: cannot find symbol
+  g = (SimpleDirectedGraph<Integer, DefaultEdge>) g.clone();
+                                    ^
+  symbol:   class DefaultEdge
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:194: error: cannot find symbol
+  BreadthFirstIterator<Integer, DefaultEdge> bfs = new BreadthFirstIterator<Integer, DefaultEdge>(g, 0);
+  ^
+  symbol:   class BreadthFirstIterator
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:194: error: cannot find symbol
+  BreadthFirstIterator<Integer, DefaultEdge> bfs = new BreadthFirstIterator<Integer, DefaultEdge>(g, 0);
+                                ^
+  symbol:   class DefaultEdge
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:194: error: cannot find symbol
+  BreadthFirstIterator<Integer, DefaultEdge> bfs = new BreadthFirstIterator<Integer, DefaultEdge>(g, 0);
+                                                       ^
+  symbol:   class BreadthFirstIterator
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:194: error: cannot find symbol
+  BreadthFirstIterator<Integer, DefaultEdge> bfs = new BreadthFirstIterator<Integer, DefaultEdge>(g, 0);
+                                                                                     ^
+  symbol:   class DefaultEdge
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:227: error: cannot find symbol
+  Graph<Integer, DefaultEdge> g = new SimpleDirectedGraph<Integer, DefaultEdge>(DefaultEdge.class);
+  ^
+  symbol:   class Graph
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:227: error: cannot find symbol
+  Graph<Integer, DefaultEdge> g = new SimpleDirectedGraph<Integer, DefaultEdge>(DefaultEdge.class);
+                 ^
+  symbol:   class DefaultEdge
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:227: error: cannot find symbol
+  Graph<Integer, DefaultEdge> g = new SimpleDirectedGraph<Integer, DefaultEdge>(DefaultEdge.class);
+                                      ^
+  symbol:   class SimpleDirectedGraph
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:227: error: cannot find symbol
+  Graph<Integer, DefaultEdge> g = new SimpleDirectedGraph<Integer, DefaultEdge>(DefaultEdge.class);
+                                                                   ^
+  symbol:   class DefaultEdge
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:227: error: cannot find symbol
+  Graph<Integer, DefaultEdge> g = new SimpleDirectedGraph<Integer, DefaultEdge>(DefaultEdge.class);
+                                                                                ^
+  symbol:   class DefaultEdge
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:262: error: cannot find symbol
+  Graph<String, DefaultEdge> graph = new SimpleDirectedGraph<String, DefaultEdge>(DefaultEdge.class);
+  ^
+  symbol:   class Graph
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:262: error: cannot find symbol
+  Graph<String, DefaultEdge> graph = new SimpleDirectedGraph<String, DefaultEdge>(DefaultEdge.class);
+                ^
+  symbol:   class DefaultEdge
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:262: error: cannot find symbol
+  Graph<String, DefaultEdge> graph = new SimpleDirectedGraph<String, DefaultEdge>(DefaultEdge.class);
+                                         ^
+  symbol:   class SimpleDirectedGraph
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:262: error: cannot find symbol
+  Graph<String, DefaultEdge> graph = new SimpleDirectedGraph<String, DefaultEdge>(DefaultEdge.class);
+                                                                     ^
+  symbol:   class DefaultEdge
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:262: error: cannot find symbol
+  Graph<String, DefaultEdge> graph = new SimpleDirectedGraph<String, DefaultEdge>(DefaultEdge.class);
+                                                                                  ^
+  symbol:   class DefaultEdge
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:272: error: cannot find symbol
+  BreadthFirstIterator<String, DefaultEdge> it = new BreadthFirstIterator<String, DefaultEdge>(graph);
+  ^
+  symbol:   class BreadthFirstIterator
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:272: error: cannot find symbol
+  BreadthFirstIterator<String, DefaultEdge> it = new BreadthFirstIterator<String, DefaultEdge>(graph);
+                               ^
+  symbol:   class DefaultEdge
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:272: error: cannot find symbol
+  BreadthFirstIterator<String, DefaultEdge> it = new BreadthFirstIterator<String, DefaultEdge>(graph);
+                                                     ^
+  symbol:   class BreadthFirstIterator
+  location: class Main
+/home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java:272: error: cannot find symbol
+  BreadthFirstIterator<String, DefaultEdge> it = new BreadthFirstIterator<String, DefaultEdge>(graph);
+                                                                                  ^
+  symbol:   class DefaultEdge
+  location: class Main
+Note: /home/useruser/datacollection/solutions_2458486_1/java/SeeBees/Main.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+35 errors
+",,-,-
+SergeyWeiss,15,java,0,177,0,0.15,0.00,-,0,0,0,0,1,64,0,4843,-, at java.lang.ClassLoader.defineClass1(Native Method)  at java.lang.ClassLoader.defineClass(ClassLoader.java:803)  at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)  at java.net.URLClassLoader.defineClass(URLClassLoader.java:442)  at java.net.URLClassLoader.access$100(URLClassLoader.java:64)  at java.net.URLClassLoader$1.run(URLClassLoader.java:354)  at java.net.URLClassLoader$1.run(URLClassLoader.java:348)  at java.security.AccessController.doPrivileged(Native Method)  at java.net.URLClassLoader.findClass(URLClassLoader.java:347)  at java.lang.ClassLoader.loadClass(ClassLoader.java:425)  at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)  at java.lang.ClassLoader.loadClass(ClassLoader.java:358)  at sun.launcher.LauncherHelper.checkAndLoadMain(LauncherHelper.java:482) Command exited with non-zero status 1,21460,0.04
+Sfairat,66,C++,3,228,,,,,,,,,,,,,,,,
+Sharph,19,C++,0,106,,,,,,,,,,,,,,,,
+SmartSchizo,12,C++,1,90,,,,,,,,,,,,,,,,
+SnapDragon,12,C++,2,96,,,,,,,,,,,,,,,,
+Snuke,19,C++,0,126,,,,,,,,,,,,,,,,
+Soultaker,85,C++,70,608,,,,,,,,,,,,,,,,
+TRYang,8,C++,17,120,,,,,,,,,,,,,,,,
+Talibu,17,C++,0,189,,,,,,,,,,,,,,,,
+TankEngineer,12,C++,0,113,,,,,,,,,,,,,,,,
+Tellmarch,33,java,63,165,0,0.16,0.00,-,0,0,0,0,1,64,0,4027,-, at java.lang.ClassLoader.defineClass1(Native Method)  at java.lang.ClassLoader.defineClass(ClassLoader.java:803)  at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)  at java.net.URLClassLoader.defineClass(URLClassLoader.java:442)  at java.net.URLClassLoader.access$100(URLClassLoader.java:64)  at java.net.URLClassLoader$1.run(URLClassLoader.java:354)  at java.net.URLClassLoader$1.run(URLClassLoader.java:348)  at java.security.AccessController.doPrivileged(Native Method)  at java.net.URLClassLoader.findClass(URLClassLoader.java:347)  at java.lang.ClassLoader.loadClass(ClassLoader.java:425)  at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)  at java.lang.ClassLoader.loadClass(ClassLoader.java:358)  at sun.launcher.LauncherHelper.checkAndLoadMain(LauncherHelper.java:482) Command exited with non-zero status 1,21476,0.04
+Tenyoku,3,C++,0,94,,,,,,,,,,,,,,,,
+Vasyl,24,C++,0,145,,,,,,,,,,,,,,,,
+Venia,4,java,49,38,-,-,-,-,-,1,-,-,1,-,-,-,"/home/useruser/datacollection/solutions_2458486_1/java/Venia/D.java:5: error: cannot find symbol
+        Kattio io = new Kattio(System.in, System.out);
+        ^
+  symbol:   class Kattio
+  location: class D
+/home/useruser/datacollection/solutions_2458486_1/java/Venia/D.java:5: error: cannot find symbol
+        Kattio io = new Kattio(System.in, System.out);
+                        ^
+  symbol:   class Kattio
+  location: class D
+/home/useruser/datacollection/solutions_2458486_1/java/Venia/D.java:28: error: cannot find symbol
+            Treasure t = new Treasure(keys, haveKeys, keysToOpen);
+            ^
+  symbol:   class Treasure
+  location: class D
+/home/useruser/datacollection/solutions_2458486_1/java/Venia/D.java:28: error: cannot find symbol
+            Treasure t = new Treasure(keys, haveKeys, keysToOpen);
+                             ^
+  symbol:   class Treasure
+  location: class D
+4 errors
+",   public static void main(String[] args) Command exited with non-zero status 1,-,-
+Xhark,9,C++,14,190,,,,,,,,,,,,,,,,
+YOBA,20,Python,0,51,,,,,,,,,,,,,,,,
+ZhSh,44,C++,108,252,,,,,,,,,,,,,,,,
+ZhukovDmitry,22,C++,34,248,,,,,,,,,,,,,,,,
+Zolmeister1,9,Python,18,92,,,,,,,,,,,,,,,,
+abryant,7,java,17,360,0,8.11,0.19,-,0,0,0,0,0,64,0,3751,-,-,664932,6.35
+aillescas,26,Python,20,73,,,,,,,,,,,,,,,,
+alberist2,13,Python,4,146,,,,,,,,,,,,,,,,
+ameboide,18,C#,0,136,,,,,,,,,,,,,,,,
+ashmelev,35,C++,9,203,,,,,,,,,,,,,,,,
+barryd,43,Python,20,178,,,,,,,,,,,,,,,,
+bmerry,14,C++,0,168,,,,,,,,,,,,,,,,
+cgy4ever,13,C++,2,143,,,,,,,,,,,,,,,,
+chEEtah,23,C++,2,104,,,,,,,,,,,,,,,,
+cs2000,0,C++,20,166,,,,,,,,,,,,,,,,
+csegura,10,C++,13,146,,,,,,,,,,,,,,,,
+d6d0d1a8,4,C++,9,101,,,,,,,,,,,,,,,,
+danh42,3,C++,0,162,,,,,,,,,,,,,,,,
+davidv,29,C++,0,147,,,,,,,,,,,,,,,,
+deniss,24,C++,4,151,,,,,,,,,,,,,,,,
+devjoe,7,Python,30,110,,,,,,,,,,,,,,,,
+dolphinigle,17,C++,18,146,,,,,,,,,,,,,,,,
+doudouille,21,C++,12,100,,,,,,,,,,,,,,,,
+dreamoon,0,C++,1,83,,,,,,,,,,,,,,,,
+dwoolley3,23,C#,12,141,,,,,,,,,,,,,,,,
+edemo,20,Python,2,58,,,,,,,,,,,,,,,,
+fagu,8,C++,4,161,,,,,,,,,,,,,,,,
+fero,32,C++,1,164,,,,,,,,,,,,,,,,
+fiver,33,C#,2,223,,,,,,,,,,,,,,,,
+freak93,39,C++,0,191,,,,,,,,,,,,,,,,
+fuqinho,26,C++,22,230,,,,,,,,,,,,,,,,
+gloomcore,22,C++,2,93,,,,,,,,,,,,,,,,
+gojira,9,C++,0,112,,,,,,,,,,,,,,,,
+hansonw,11,C++,1,122,,,,,,,,,,,,,,,,
+harshvv1991,32,C++,0,148,,,,,,,,,,,,,,,,
+hellohs,31,java,10,197,0,0.17,0.01,-,0,0,0,0,1,64,0,2567,-, at java.lang.ClassLoader.defineClass1(Native Method)  at java.lang.ClassLoader.defineClass(ClassLoader.java:803)  at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)  at java.net.URLClassLoader.defineClass(URLClassLoader.java:442)  at java.net.URLClassLoader.access$100(URLClassLoader.java:64)  at java.net.URLClassLoader$1.run(URLClassLoader.java:354)  at java.net.URLClassLoader$1.run(URLClassLoader.java:348)  at java.security.AccessController.doPrivileged(Native Method)  at java.net.URLClassLoader.findClass(URLClassLoader.java:347)  at java.lang.ClassLoader.loadClass(ClassLoader.java:425)  at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)  at java.lang.ClassLoader.loadClass(ClassLoader.java:358)  at sun.launcher.LauncherHelper.checkAndLoadMain(LauncherHelper.java:482) Command exited with non-zero status 1,21560,0.04
+hex539,20,C++,0,132,,,,,,,,,,,,,,,,
+homuler,6,java,4,135,0,0.10,0.00,-,0,0,0,0,1,64,0,4232,-, at java.lang.ClassLoader.defineClass1(Native Method)  at java.lang.ClassLoader.defineClass(ClassLoader.java:803)  at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)  at java.net.URLClassLoader.defineClass(URLClassLoader.java:442)  at java.net.URLClassLoader.access$100(URLClassLoader.java:64)  at java.net.URLClassLoader$1.run(URLClassLoader.java:354)  at java.net.URLClassLoader$1.run(URLClassLoader.java:348)  at java.security.AccessController.doPrivileged(Native Method)  at java.net.URLClassLoader.findClass(URLClassLoader.java:347)  at java.lang.ClassLoader.loadClass(ClassLoader.java:425)  at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)  at java.lang.ClassLoader.loadClass(ClassLoader.java:358)  at sun.launcher.LauncherHelper.checkAndLoadMain(LauncherHelper.java:482) Command exited with non-zero status 1,21340,0.04
+hpmv,17,Python,5,78,,,,,,,,,,,,,,,,
+indifferent,13,C#,2,157,,,,,,,,,,,,,,,,
+itzkow,78,Python,38,175,,,,,,,,,,,,,,,,
+jakab922,18,Python,0,96,,,,,,,,,,,,,,,,
+jinlin,10,C++,4,121,,,,,,,,,,,,,,,,
+jkud,6,Python,0,41,,,,,,,,,,,,,,,,
+jxwuyi,32,C++,13,167,,,,,,,,,,,,,,,,
+karlhendrikse,27,C++,3,123,,,,,,,,,,,,,,,,
+kcm1700,11,C++,0,160,,,,,,,,,,,,,,,,
+kennyChiu,28,C++,18,177,,,,,,,,,,,,,,,,
+kgorman,61,C#,53,184,,,,,,,,,,,,,,,,
+khunglong,38,C++,22,162,,,,,,,,,,,,,,,,
+krijgertje,21,C++,11,139,,,,,,,,,,,,,,,,
+kusano,4,Python,0,13,,,,,,,,,,,,,,,,
+kyuridenamida,3,C++,57,18,,,,,,,,,,,,,,,,
+l521530,12,C++,4,125,,,,,,,,,,,,,,,,
+ll931110,10,C++,7,160,,,,,,,,,,,,,,,,
+lwz,0,C++,2,81,,,,,,,,,,,,,,,,
+maciejk,22,C++,1,203,,,,,,,,,,,,,,,,
+maprohu,55,java,3,147,-,-,-,-,-,1,-,-,-1,-,-,-,"/home/useruser/datacollection/solutions_2458486_1/java/maprohu/Treasure3.java:3: error: package hu.mapro.jam.commons does not exist
+import hu.mapro.jam.commons.Problem;
+                           ^
+/home/useruser/datacollection/solutions_2458486_1/java/maprohu/Treasure3.java:9: error: package com.google.common.base does not exist
+import com.google.common.base.Joiner;
+                             ^
+/home/useruser/datacollection/solutions_2458486_1/java/maprohu/Treasure3.java:10: error: package com.google.common.collect does not exist
+import com.google.common.collect.HashMultiset;
+                                ^
+/home/useruser/datacollection/solutions_2458486_1/java/maprohu/Treasure3.java:11: error: package com.google.common.collect does not exist
+import com.google.common.collect.Multiset;
+                                ^
+/home/useruser/datacollection/solutions_2458486_1/java/maprohu/Treasure3.java:12: error: package com.google.common.collect does not exist
+import com.google.common.collect.Sets;
+                                ^
+/home/useruser/datacollection/solutions_2458486_1/java/maprohu/Treasure3.java:13: error: package com.google.common.primitives does not exist
+import com.google.common.primitives.Ints;
+                                   ^
+/home/useruser/datacollection/solutions_2458486_1/java/maprohu/Treasure3.java:18: error: cannot find symbol
+public class Treasure3 extends Problem {
+                               ^
+  symbol: class Problem
+/home/useruser/datacollection/solutions_2458486_1/java/maprohu/Treasure3.java:30: error: cannot find symbol
+ private Multiset<Integer> keyRequired;
+         ^
+  symbol:   class Multiset
+  location: class Treasure3
+/home/useruser/datacollection/solutions_2458486_1/java/maprohu/Treasure3.java:32: error: cannot find symbol
+ private HashMultiset<Object> keyAvailable;
+         ^
+  symbol:   class HashMultiset
+  location: class Treasure3
+/home/useruser/datacollection/solutions_2458486_1/java/maprohu/Treasure3.java:160: error: cannot find symbol
+  Multiset<Integer> keys = HashMultiset.create();
+  ^
+  symbol:   class Multiset
+  location: class Treasure3.Chest
+/home/useruser/datacollection/solutions_2458486_1/java/maprohu/Treasure3.java:55: error: cannot find symbol
+  keyRequired = HashMultiset.create();
+                ^
+  symbol:   variable HashMultiset
+  location: class Treasure3
+/home/useruser/datacollection/solutions_2458486_1/java/maprohu/Treasure3.java:56: error: cannot find symbol
+  keyAvailable = HashMultiset.create();
+                 ^
+  symbol:   variable HashMultiset
+  location: class Treasure3
+/home/useruser/datacollection/solutions_2458486_1/java/maprohu/Treasure3.java:75: error: cannot find symbol
+  tried = Sets.newHashSet();
+          ^
+  symbol:   variable Sets
+  location: class Treasure3
+/home/useruser/datacollection/solutions_2458486_1/java/maprohu/Treasure3.java:89: error: cannot find symbol
+   return Joiner.on("" "").join(Ints.asList(order));
+                              ^
+  symbol:   variable Ints
+  location: class Treasure3
+/home/useruser/datacollection/solutions_2458486_1/java/maprohu/Treasure3.java:89: error: cannot find symbol
+   return Joiner.on("" "").join(Ints.asList(order));
+          ^
+  symbol:   variable Joiner
+  location: class Treasure3
+/home/useruser/datacollection/solutions_2458486_1/java/maprohu/Treasure3.java:40: error: method does not override or implement a method from a supertype
+ @Override
+ ^
+/home/useruser/datacollection/solutions_2458486_1/java/maprohu/Treasure3.java:138: error: cannot find symbol
+  Multiset<Integer> keysAccessible = HashMultiset.create();
+  ^
+  symbol:   class Multiset
+  location: class Treasure3
+/home/useruser/datacollection/solutions_2458486_1/java/maprohu/Treasure3.java:138: error: cannot find symbol
+  Multiset<Integer> keysAccessible = HashMultiset.create();
+                                     ^
+  symbol:   variable HashMultiset
+  location: class Treasure3
+/home/useruser/datacollection/solutions_2458486_1/java/maprohu/Treasure3.java:146: error: package Multiset does not exist
+  for (Multiset.Entry<Integer> entry : keyRequired.entrySet()) {
+               ^
+/home/useruser/datacollection/solutions_2458486_1/java/maprohu/Treasure3.java:160: error: cannot find symbol
+  Multiset<Integer> keys = HashMultiset.create();
+                           ^
+  symbol:   variable HashMultiset
+  location: class Treasure3.Chest
+/home/useruser/datacollection/solutions_2458486_1/java/maprohu/Treasure3.java:166: error: package Multiset does not exist
+   for (Multiset.Entry<Integer> entry : keys.entrySet()) {
+                ^
+/home/useruser/datacollection/solutions_2458486_1/java/maprohu/Treasure3.java:189: error: package Multiset does not exist
+   for (Multiset.Entry<Integer> entry : keys.entrySet()) {
+                ^
+22 errors
+",,-,-
+meret,10,C++,0,139,,,,,,,,,,,,,,,,
+mikhailOK,29,java,1,282,-,-,-,-,-,0,-,-,-15,-,-,5918,-,Timeout,-,-
+misof,20,C++,24,209,,,,,,,,,,,,,,,,
+mugurelionut,29,C++,15,130,,,,,,,,,,,,,,,,
+natsugiri,19,C++,0,99,,,,,,,,,,,,,,,,
+nbarshay,28,C++,0,147,,,,,,,,,,,,,,,,
+netkuba,24,C++,11,145,,,,,,,,,,,,,,,,
+nicesap,37,C++,3,167,,,,,,,,,,,,,,,,
+nika,16,C++,0,177,,,,,,,,,,,,,,,,
+nirhershko,20,Python,4,85,,,,,,,,,,,,,,,,
+ogiekako,30,java,5,273,0,0.49,0.00,-,0,0,0,0,0,88,0,1172,-,-,51876,0.40
+olalia,17,C++,0,100,,,,,,,,,,,,,,,,
+otacon,51,Python,4,125,,,,,,,,,,,,,,,,
+paulliu,48,java,25,318,-,-,-,-,-,0,-,-,-1,-,-,-,-,,-,-
+pawsikora,12,C++,14,111,,,,,,,,,,,,,,,,
+phtniit,0,C++,0,7,,,,,,,,,,,,,,,,
+pieguy,4,C++,0,132,,,,,,,,,,,,,,,,
+pivizz,25,C#,0,162,,,,,,,,,,,,,,,,
+radeye,0,C++,0,150,,,,,,,,,,,,,,,,
+romanandreev,10,C++,3,196,,,,,,,,,,,,,,,,
+royf,21,Python,2,123,,,,,,,,,,,,,,,,
+rudradevbasak,61,C++,29,280,,,,,,,,,,,,,,,,
+ryuuga,42,Python,33,158,,,,,,,,,,,,,,,,
+sankear,10,C++,0,209,,,,,,,,,,,,,,,,
+scottai,4,C++,0,152,,,,,,,,,,,,,,,,
+seanwu,4,C++,13,171,,,,,,,,,,,,,,,,
+sgtlaugh,15,C,0,73,,,,,,,,,,,,,,,,
+sions,29,Python,28,98,,,,,,,,,,,,,,,,
+sisu,18,C++,15,192,,,,,,,,,,,,,,,,
+sohelH,20,C++,5,131,,,,,,,,,,,,,,,,
+sourspinach,8,C++,0,89,,,,,,,,,,,,,,,,
+squahtx,36,C++,6,191,,,,,,,,,,,,,,,,
+strapahuulius,0,C++,0,157,,,,,,,,,,,,,,,,
+surwdkgo,14,C++,0,108,,,,,,,,,,,,,,,,
+tanakh,14,C++,7,91,,,,,,,,,,,,,,,,
+tfliao,18,C++,0,125,,,,,,,,,,,,,,,,
+thocevar,9,C++,12,146,,,,,,,,,,,,,,,,
+tkociumaka,8,C++,2,170,,,,,,,,,,,,,,,,
+tmt514,5,C++,0,79,,,,,,,,,,,,,,,,
+tokoharu,15,C++,9,138,,,,,,,,,,,,,,,,
+tomlau,26,C++,18,107,,,,,,,,,,,,,,,,
+triceps,5,C++,0,104,,,,,,,,,,,,,,,,
+twilight512,17,java,5,187,0,0.15,0.00,-,0,0,0,0,1,64,0,4792,-, at java.lang.ClassLoader.defineClass1(Native Method)  at java.lang.ClassLoader.defineClass(ClassLoader.java:803)  at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)  at java.net.URLClassLoader.defineClass(URLClassLoader.java:442)  at java.net.URLClassLoader.access$100(URLClassLoader.java:64)  at java.net.URLClassLoader$1.run(URLClassLoader.java:354)  at java.net.URLClassLoader$1.run(URLClassLoader.java:348)  at java.security.AccessController.doPrivileged(Native Method)  at java.net.URLClassLoader.findClass(URLClassLoader.java:347)  at java.lang.ClassLoader.loadClass(ClassLoader.java:425)  at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)  at java.lang.ClassLoader.loadClass(ClassLoader.java:358)  at sun.launcher.LauncherHelper.checkAndLoadMain(LauncherHelper.java:482) Command exited with non-zero status 1,21416,0.04
+untitledH,17,C++,4,180,,,,,,,,,,,,,,,,
+vedg,38,C++,1,144,,,,,,,,,,,,,,,,
+vlada,62,Python,5,103,,,,,,,,,,,,,,,,
+vot,16,java,6,179,0,3.11,0.02,-,0,0,0,0,0,88,0,5112,"Note: /home/useruser/datacollection/solutions_2458486_1/java/vot/D.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+",2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 Done in 2986ms,43480,2.14
+watashi,16,C++,0,124,,,,,,,,,,,,,,,,
+wmLiu,22,Python,5,80,,,,,,,,,,,,,,,,
+woodpecker112358,1,C++,2,154,,,,,,,,,,,,,,,,
+yarrr,56,java,4,218,-,-,-,-,-,0,-,-,0,-,-,6613,-,"DEBUG, total iterations: 201 DEBUG, total iterations: 347 DEBUG, total iterations: 201 DEBUG, total iterations: 201 DEBUG, total iterations: 201 DEBUG, total iterations: 258 DEBUG, total iterations: 201 DEBUG, total iterations: 51 DEBUG, total iterations: 128 DEBUG, total iterations: 201 DEBUG, total iterations: 201 DEBUG, total iterations: 294 DEBUG, total iterations: 201 DEBUG, total iterations: 35 DEBUG, total iterations: 101 DEBUG, total iterations: 64 DEBUG, total iterations: 51",-,-
+yodabo,16,C#,15,287,,,,,,,,,,,,,,,,
+zhouxiaobo,8,C++,0,97,,,,,,,,,,,,,,,,

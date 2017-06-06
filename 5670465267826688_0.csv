@@ -452,7 +452,7 @@ LeartS,0,0.25,0.00,10,Python,2.7,49,8,0,0,0,0,7,0,0,1589,-,-,6728,0.24
 Leasty,-,-,-,35,Java,-,186,-,0,-,-,1,18,-,-,1930,-,javafx.application.Application,-,-
 LeeSin,0,0.00,0.00,7,C++,-,65,0,0,0,0,0,0,0,0,9720,-,-,2124,0.00
 LeoMao,0,0.48,0.00,17,Python,3.5,95,0,0,0,0,0,1,0,0,3821,-,-,13908,0.47
-LeonardoXavier,-,-,-,39,C#,System.Numerics,301,-,0,-,-,1,0,-,-,7680,""""""""""""""": Unexpected symbol `""""""",',""""""" expecting ` ' or `}' /home/useruser/datacollection/solu""""""""""""""",: System.IO.DirectoryNotFoundException
+LeonardoXavier,-,-,-,39,C#,System.Numerics,301,-,0,-,-,1,0,-,-,7680,""""""""""""""""""""""""""""""": Unexpected symbol `""""""""""""""",',""""""""""""""" expecting ` ' or `}' /home/useruser/datacollection/solu""""""""""""""""""""""""""""""",: System.IO.DirectoryNotFoundException
 Lepetrandr,0,0.00,0.00,26,C++,-,167,0,0,0,0,0,5,0,0,15872,-,-,2452,0.00
 LeppyR64,0,0.03,0.00,4,C++,-,39,0,0,0,0,0,0,0,0,11624,-,-,2536,0.01
 Lerence1201,0,0.71,0.01,9,C++,-,79,0,0,0,0,0,3,145400,0,10208,-,-,2592,0.50
@@ -496,7 +496,7 @@ Martinarjovsky,0,0.00,0.00,6,C++,-,56,0,1,0,0,127,4,0,0,-,Unknown error,Command 
 Martixingwei,-,-,-,13,Python,2.7,142,-,0,-,-,1,11,-,-,4252,-,TypeError,-,-
 Maryam82,-,-,-,7,Python,2.7,61,-,0,-,-,1,0,-,-,2495,-,File or Dir not found,-,-
 MasWag,-,-,-,22,C++,-,72,-,0,-,-,-15,0,-,-,9344,-,Timeout,-,-
-MatFiz,-,-,-,23,C#,-,117,-,0,-,-,1,1,-,-,8704,""""""""""""""": Unexpected symbol ` '""""""", expecting `)' or `,"""""""' """"""""""""""",: System.IO.FileNotFoundException
+MatFiz,-,-,-,23,C#,-,117,-,0,-,-,1,1,-,-,8704,""""""""""""""""""""""""""""""": Unexpected symbol ` '""""""""""""""", expecting `)' or `,"""""""""""""""' """"""""""""""""""""""""""""""",: System.IO.FileNotFoundException
 MatRush,0,0.02,0.00,8,C++,-,94,0,0,0,0,0,0,0,0,11552,-,-,2760,0.00
 MathCrusader,0,0.02,0.00,12,C++,-,55,0,0,0,0,0,0,0,0,12664,-,-,2500,0.01
 MathGuy,0,0.38,0.09,2,Java,-,78,0,0,0,0,0,3,72,0,3512,-,-,154796,0.28
@@ -559,7 +559,7 @@ NeptuneZ,0,0.02,0.00,6,C++,-,84,0,0,0,0,0,8,0,0,15960,-,-,2516,0.01
 Nerevar,-,-,-,10,C++,-,87,-,0,-,-,-15,0,-,-,18688,-,Timeout,-,-
 Nestman,0,0.07,0.02,28,Java,-,71,0,0,0,0,1,5,72,0,2510,-,java.io.FileNotFoundException:,23996,0.03
 Neugomonney,-,-,-,80,C#,-,281,-,1,-,-,1,92,-,-,12288,: `GoogleCodeJam_2015.Qualification_Dijkstra' does not contain a definition for ,: System.IO.DirectoryNotFoundException,-,-
-Neverauskas,-,-,-,22,C#,-,160,-,0,-,-,1,34,-,-,7680,""""""""""""""": Unexpected symbol `)'""""""",""""""" expecting ` ' or `}' /home/useruser/datacollection/solu""""""""""""""",: System.IO.FileNotFoundException,-
+Neverauskas,-,-,-,22,C#,-,160,-,0,-,-,1,34,-,-,7680,""""""""""""""""""""""""""""""": Unexpected symbol `)'""""""""""""""",""""""""""""""" expecting ` ' or `}' /home/useruser/datacollection/solu""""""""""""""""""""""""""""""",: System.IO.FileNotFoundException,-
 Neverous,0,0.01,0.00,16,C++,-,80,0,0,0,0,0,4,0,0,8632,-,-,2384,0.00
 Niaz,0,0.01,0.00,11,C++,-,69,0,0,0,0,0,5,0,0,8408,-,-,2284,0.00
 Nib,-,-,-,22,C++,-,132,-,1,-,-,-1,13,-,-,-,No such file or directory,-,-,-
@@ -597,7 +597,7 @@ Pasqual45,0,0.00,0.00,12,C++,-,88,0,0,0,0,0,1,0,0,13048,-,-,2488,0.00
 PattyHuang,0,6.91,0.05,3,Python,2.7,72,8,0,0,0,0,2,0,0,2082,-,-,7688,6.85
 Pau1,0,0.04,0.00,13,Java,-,113,0,1,0,0,0,74,72,0,3668,Unknown error,-,23696,0.03
 PavelKunyavskiy,0,0.01,0.00,30,C++,-,142,0,0,0,0,0,1,0,0,19144,-,-,3384,0.00
-PavelKuznetsov,-,-,-,28,C#,System.Numerics,212,-,0,-,-,1,1,-,-,8704,""""""""""""""": Unexpected symbol `""""""",',""""""" expecting ` ' or `}' /home/useruser/datacollection/solu""""""""""""""",: System.IO.DirectoryNotFoundException
+PavelKuznetsov,-,-,-,28,C#,System.Numerics,212,-,0,-,-,1,1,-,-,8704,""""""""""""""""""""""""""""""": Unexpected symbol `""""""""""""""",',""""""""""""""" expecting ` ' or `}' /home/useruser/datacollection/solu""""""""""""""""""""""""""""""",: System.IO.DirectoryNotFoundException
 PavelSavchenkov,0,0.00,0.00,23,C++,-,156,0,0,0,0,0,16,0,0,11072,-,-,2788,0.00
 PepeOfMath,0,0.04,0.00,18,Java,-,213,0,0,0,0,1,7,72,0,3204,-,java.io.FileNotFoundException:,23848,0.03
 PetarV,0,0.00,0.00,26,C++,-,103,0,0,0,0,0,7,0,0,40192,-,-,2580,0.00
@@ -767,7 +767,7 @@ SwatStar,-,-,-,-,C++,-,-,-,1,-,-,-1,-,-,-,-,No such file or directory,-,-,-
 Swrrt,0,0.00,0.00,0,C++,-,81,0,0,0,0,0,2,0,0,9944,-,-,2496,0.00
 SylChen1,0,0.29,0.00,4,Python,2.7,77,8,0,0,0,0,4,0,0,2063,-,-,6856,0.28
 T1024,0,0.03,0.00,10,C++,-,73,0,0,0,0,0,3,0,0,11272,-,-,2464,0.01
-TK305,-,-,-,8,C#,-,90,-,0,-,-,1,0,-,-,5632,""""""""""""""": Unexpected symbol `)'""""""", expecting `,"""""""' or ` ' """"""""""""""",: System.IO.FileNotFoundException
+TK305,-,-,-,8,C#,-,90,-,0,-,-,1,0,-,-,5632,""""""""""""""""""""""""""""""": Unexpected symbol `)'""""""""""""""", expecting `,"""""""""""""""' or ` ' """"""""""""""""""""""""""""""",: System.IO.FileNotFoundException
 TLN,0,0.02,0.00,16,C++,-,109,0,0,0,0,0,6,0,0,14416,-,-,2532,0.01
 Taargus,0,0.00,0.00,17,C++,-,53,0,0,0,0,0,0,0,0,12056,-,-,2504,0.00
 TaiTai,0,0.23,0.02,13,Java,-,154,0,0,0,0,0,9,72,0,1970,-,-,29928,0.21
@@ -1097,7 +1097,7 @@ cadburys,0,0.01,0.00,4,C++,-,50,0,0,0,0,0,1,0,0,9760,-,-,2280,0.00
 caethan,-,-,-,50,Python,2.7,193,-,0,-,-,1,122,-,-,9325,-,AssertionError,-,-
 caibird,0,0.01,0.00,16,C++,-,122,0,0,0,0,0,0,0,0,9440,-,-,2260,0.00
 caiquelira,0,0.03,0.00,5,C++,-,64,0,0,0,0,0,0,0,0,8224,-,-,2392,0.01
-camypaper,-,-,-,6,C#,System.Numerics,253,-,0,-,-,-15,0,-,-,9216,-,Timeout,-,-
+camypaper,0,84,0.18,6,C#,System.Numerics,253,0,0,0,0,0,0,0,0,9216,-,-,29084,117
 canada,-,-,-,5,C++,-,68,-,1,-,-,-1,0,-,-,-,Unknown error,-,-,-
 caozl,0,0.18,0.00,5,Python,2.7,64,8,0,0,0,0,0,8,0,2288,-,-,7128,0.17
 carlop,0,0.16,0.00,19,C++,-,57,0,0,0,0,0,0,0,0,27504,-,-,2616,0.08

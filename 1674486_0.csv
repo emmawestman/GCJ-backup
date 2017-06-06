@@ -723,7 +723,7 @@ Safadurimo,0,0.06,0.01,9,Java,-,49,0,0,0,0,1,2,72,0,2023,-,java.lang.NumberForma
 SahGan,0,0.21,0.00,2,C++,-,67,24,0,0,0,0,0,0,0,10120,-,-,6412,0.10
 Sakhalin,0,0.00,0.00,11,C++,-,57,72,0,0,0,0,2,0,1,34904,-,-,2540,0.00
 Salls,0,0.00,0.00,33,C++,-,77,120,0,0,0,0,0,0,1,57488,-,-,2500,0.00
-SamProf,-,-,-,12,C#,-,52,-,0,-,-,1,0,-,-,4608,""""""""""""""""""""""""""""""": Unexpected symbol `)'""""""""""""""", expecting `,"""""""""""""""' or ` ' /home/useruser/datacollection/solu""""""""""""""""""""""""""""""",: System.IO.FileNotFoundException
+SamProf,-,-,-,12,C#,-,52,-,0,-,-,1,0,-,-,4608,Unexpected symbol,-,: System.IO.FileNotFoundException
 Sammax,0,0.21,0.00,8,C++,-,105,72,0,0,0,0,1,0,1,34456,-,-,6716,0.19
 Sanzee,0,0.00,0.00,7,C++,-,82,72,0,0,0,0,3,0,1,35896,-,-,2612,0.00
 Sarum9in,-,-,-,3,C++,-,55,-,1,-,-,-1,0,-,-,-,No such file or directory,-,-,-
@@ -1153,7 +1153,7 @@ castor,-,-,-,5,Python,3.5,27,-,0,-,-,1,1,-,-,-,-,IndexError,-,-
 catul,-,-,-,10,C++,-,46,-,1,-,-,-1,0,-,-,-,not declared,-,-,-
 catupper,-,-,-,3,Python,2.7,22,-,0,-,-,1,0,-,-,1061,-,Unknown,-,-
 cburschka,-,-,-,2,Python,2.7,22,-,0,-,-,1,0,-,-,1296,-,Unknown,-,-
-ccby,-,-,-,24,C#,-,73,-,0,-,-,1,2,-,-,4608,""""""""""""""""""""""""""""""": Unexpected symbol `)'""""""""""""""", expecting `,"""""""""""""""' or ` ' """"""""""""""""""""""""""""""",: System.IO.FileNotFoundException
+ccby,-,-,-,24,C#,-,73,-,0,-,-,1,2,-,-,4608,Unexpected symbol,-,System.IO.FileNotFoundException
 cchun,-,-,-,6,C++,-,76,-,1,-,-,-1,0,-,-,-,not declared,-,-,-
 cdquirozc,0,0.04,0.00,6,Java,-,49,0,0,0,0,1,8,72,0,2410,-,java.lang.NumberFormatException:,23632,0.03
 cdub,0,0.06,0.01,15,Java,-,88,0,0,0,0,1,4,72,0,3614,-,java.lang.ArrayIndexOutOfBoundsException:,23684,0.04
@@ -2228,7 +2228,7 @@ stupidbear,-,-,-,4,C++,-,53,-,1,-,-,-1,0,-,-,-,not declared,-,-,-
 subdir,-,-,-,5,Python,2.7,32,-,0,-,-,1,1,-,-,1518,-,ValueError,-,-
 sudarshans,-,-,-,3,Python,2.7,35,-,0,-,-,1,5,-,-,1367,-,Unknown,-,-
 sugarsalt,0,0.03,0.00,5,C++,-,44,24,0,0,0,0,0,0,0,10136,-,-,3576,0.02
-sujay,-,-,-,15,C#,-,61,-,0,-,-,1,2,-,-,4096,""""""""""""""""""""""""""""""": Identifier expected""""""""""""""",""""""""""""""" `in' is a keyword /home/useruser/datacollection/solutions""""""""""""""""""""""""""""""",: System.IO.DirectoryNotFoundException,-
+sujay,-,-,-,15,C#,-,61,-,0,-,-,1,2,-,-,4096,Identifier expected,-,: System.IO.DirectoryNotFoundException,-
 sumitgt007,0,0.08,0.01,11,Java,-,59,0,0,0,0,1,4,72,0,1780,-,java.util.NoSuchElementException,25704,0.06
 sunchips,0,0.05,0.00,24,Java,-,118,0,0,0,0,1,1,72,0,3987,-,java.lang.NumberFormatException:,23824,0.03
 sunnn,0,0.00,0.00,17,C++,-,92,80,0,0,0,0,1,0,1,37136,-,-,2508,0.00

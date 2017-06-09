@@ -319,7 +319,7 @@ Labib666,0,0.00,0.00,37,C++,-,99,0,0,0,0,0,24,0,0,16184,-,-,2468,0.00
 LazyAnna,0,8.77,0.00,2,C++,-,64,0,0,0,0,0,5,0,0,13792,-,-,2712,8.76
 LeartS,-,-,-,3,Python,2.7,27,-,0,-,-,-15,1,-,-,1241,-,Timeout,-,-
 LeoMao,0,0.01,0.00,11,Python,3.5,51,0,0,0,0,0,1,0,0,1831,-,-,8540,0.00
-LeonardoXavier,-,-,-,35,C#,System.Numerics,165,-,0,-,-,1,0,-,-,7680,""""""""""""""": Unexpected symbol `""""""",',""""""" expecting ` ' or `}' /home/useruser/datacollection/solu""""""""""""""",: System.IO.DirectoryNotFoundException
+LeonardoXavier,-,-,-,35,C#,System.Numerics,165,-,0,-,-,1,0,-,-,7680,: Unexpected symbol `,-,-,-
 Leonid,0,0.00,0.00,4,C++,-,64,0,0,0,0,0,3,0,0,11352,-,-,2644,0.00
 LevinLMKwong,0,0.00,0.00,0,C,-,81,0,0,0,0,0,3,0,0,9416,-,-,1384,0.00
 LiJiancheng,0,0.00,0.00,4,C++,-,65,0,0,0,0,0,2,0,0,25120,-,-,2608,0.00
@@ -383,7 +383,7 @@ NVAL,0,0.00,0.00,11,C++,-,109,0,1,0,0,127,3,0,0,-,Unknown error,Command not foun
 Nergal,-,-,-,64,C++,-,207,-,1,-,-,-1,21,-,-,-,not declared,-,-,-
 Neroysq,0,0.00,0.00,7,C++,-,107,0,0,0,0,0,4,0,0,10728,-,-,2708,0.00
 Netdex,0,7.06,0.16,10,Java,-,50,0,0,0,0,0,1,80,0,2681,-,-,860012,7.14
-Neverauskas,-,-,-,11,C#,-,107,-,0,-,-,1,0,-,-,5632,""""""""""""""": Unexpected symbol `)'""""""",""""""" expecting ` ' or `}' /home/useruser/datacollection/solu""""""""""""""",: System.IO.FileNotFoundException,-
+Neverauskas,-,-,-,11,C#,-,107,-,0,-,-,1,0,-,-,5632,: Unexpected symbol `)',-,-,-
 Neverous,0,1.11,0.00,8,C++,-,42,0,0,0,0,0,4,0,0,18192,-,-,2500,1.10
 Newen,0,0.00,0.00,5,Python,2.7,42,8,0,0,0,0,1,0,0,1258,-,-,6792,0.00
 Nib,-,-,-,4,C++,-,60,-,1,-,-,-1,7,-,-,-,No such file or directory,-,-,-
@@ -550,7 +550,7 @@ TrentonO,0,0.00,0.00,9,Python,2.7,33,8,0,0,0,0,2,8,0,1956,-,-,7020,0.00
 TrevorDasch,-,-,-,27,C#,-,105,-,0,-,-,1,1,-,-,5120,: Unexpected symbol `)' /home/useruser/datacollection/solutions_5708284669460480,: System.IO.FileNotFoundException,-,-
 TrungHieu11,0,0.08,0.00,27,Java,-,204,0,0,0,0,1,5,72,0,1611,-,java.lang.NullPointerException,23888,0.04
 TryAndSee,0,0.00,0.00,6,C++,-,89,0,0,0,0,0,4,0,0,15544,-,-,2512,0.00
-TwoFx,-,-,-,17,C#,-,127,-,0,-,-,1,0,-,-,9216,""""""""""""""": Unexpected symbol `)'""""""",""""""" expecting ` ' or `}' """"""""""""""",: System.IO.FileNotFoundException,-
+TwoFx,-,-,-,17,C#,-,127,-,0,-,-,1,0,-,-,9216,: Unexpected symbol `)',-,-,-
 TwoTonTunic,-,-,-,8,C++,-,30,-,1,-,-,-1,0,-,-,-,not declared,-,-,-
 Tym,0,0.09,0.00,16,Java,-,51,0,0,0,0,0,0,72,0,2166,-,-,27296,0.09
 Undefined,0,0.00,0.00,5,C++,-,75,0,0,0,0,0,2,0,0,11000,-,-,2716,0.00
@@ -1588,7 +1588,7 @@ yangsiy,0,0.00,0.00,5,C++,-,71,0,0,0,0,0,1,0,0,12184,-,-,2408,0.00
 yaoy4,0,0.07,0.00,3,Java,-,18,0,0,0,0,1,0,80,0,1116,-,java.util.InputMismatchException,25704,0.06
 yashmathur,0,1.26,0.00,3,C++,-,50,0,0,0,0,0,0,0,0,15416,-,-,2532,1.25
 ybh,-,-,-,12,C++,-,104,-,1,-,-,-1,16,-,-,-,reference is ambiguous,-,-,-
-yerfdog,-,-,-,6,C#,-,80,-,0,-,-,1,1,-,-,4096,""""""""""""""": Unexpected symbol `)'""""""", expecting `,"""""""' or ` ' """"""""""""""",: System.IO.FileNotFoundException
+yerfdog,-,-,-,6,C#,-,80,-,0,-,-,1,1,-,-,4096,: Unexpected symbol `)',-,-,-
 yett,0,0.00,0.00,7,C++,-,99,0,0,0,0,0,0,0,0,15808,-,-,2692,0.00
 yfo,0,0.04,0.01,16,Java,-,95,0,0,0,0,1,0,72,0,3090,-,java.io.FileNotFoundException:,23656,0.02
 ykabaran,-,-,-,22,Java,-,129,-,1,-,-,-1,8,-,-,-,cannot find symbol,-,-,-

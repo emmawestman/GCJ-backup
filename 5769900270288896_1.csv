@@ -143,7 +143,7 @@ Orpinexyw,0,0.00,0.00,5,C++,-,78,0,1,0,0,127,1,0,0,-,Unknown error,Command not f
 Pasqual45,0,0.05,0.03,17,C++,-,83,0,0,0,0,0,1,936,0,12112,-,-,2452,0.00
 PaulJefferys,-,-,-,66,C++,-,219,-,1,-,-,-1,7,-,-,-,not declared,-,-,-
 PavelKunyavskiy,0,0.00,0.00,28,C++,-,180,0,0,0,0,0,7,0,0,36928,-,-,2264,0.00
-PavelKuznetsov,-,-,-,30,C#,System.Numerics,204,-,0,-,-,1,1,-,-,8704,""""""""""""""": Unexpected symbol `""""""",',""""""" expecting ` ' or `}' /home/useruser/datacollection/solu""""""""""""""",: System.IO.DirectoryNotFoundException
+PavelKuznetsov,-,-,-,30,C#,System.Numerics,204,-,0,-,-,1,1,-,-,8704,: Unexpected symbol `,-,-,-
 Perlik,0,0.00,0.00,7,C++,-,101,0,0,0,0,134,0,0,0,73536,-,underflow error reading the file,2504,0.00
 Poldnev,-,-,-,6,Python,3.5,32,-,0,-,-,1,0,-,-,-,-,File or Dir not found,-,-
 Progbeat,0,2.94,0.00,4,C++,-,65,0,0,0,0,0,0,0,0,33808,-,-,3444,2.02

@@ -368,7 +368,7 @@ dolphinigle,-,-,-,30,C++,-,110,-,0,-,-,-1,10,-,-,35440,-,-,-,-
 domeng,-,-,-,85,C++,-,82,-,0,-,-,-1,0,-,-,28664,-,-,-,-
 donvel,-,-,-,18,C++,-,118,-,0,-,-,-1,2,-,-,33608,-,-,-,-
 dorota,-,-,-,11,C++,-,105,-,1,-,-,-1,15,-,-,-,redeclared,-,-,-
-dotnetcoder,-,-,-,24,C#,-,175,-,1,-,-,1,0,-,-,6656,""""""""""""""""""""""""""""""": Unexpected symbol `/home/useruser/datacollection/input/1485488_0.in' in class""""""""""""""","""""""""""""""""""""""""""""""""""""""""""""",: System.IO.FileNotFoundException,-
+dotnetcoder,-,-,-,24,C#,-,175,-,1,-,-,1,0,-,-,6656,: Unexpected symbol `/home/useruser/datacollection/input/1485488_0.in' in class,-,-,-
 dschlyter,-,-,-,153,C++,-,99,-,1,-,-,-1,4,-,-,-,No such file or directory,-,-,-
 duckworthd,-,-,-,25,Python,2.7,104,-,0,-,-,1,11,-,-,4808,-,ImportError,-,-
 durt,-,-,-,12,C++,-,95,-,0,-,-,-1,9,-,-,14600,-,-,-,-
@@ -614,7 +614,7 @@ stolis,0,0.04,0.00,12,Java,-,121,0,0,0,0,1,1,72,0,3274,-,java.io.FileNotFoundExc
 strapahuulius,-,-,-,2,C++,-,110,-,0,-,-,-1,11,-,-,37104,-,-,-,-
 sune2,-,-,-,5,C++,-,89,-,0,-,-,-1,3,-,-,34256,-,-,-,-
 superjoel,-,-,-,127,C++,-,101,-,0,-,-,-1,3,-,-,55064,-,-,-,-
-svick,-,-,-,43,C#,-,243,-,1,-,-,1,0,-,-,9728,""""""""""""""""""""""""""""""": Unexpected symbol `/home/useruser/datacollection/input/1485488_0.in'""""""""""""""",""""""""""""""" expectin""""""""""""""""""""""""""""""",: System.IO.FileNotFoundException,-
+svick,-,-,-,43,C#,-,243,-,1,-,-,1,0,-,-,9728,: Unexpected symbol `/home/useruser/datacollection/input/1485488_0.in',-,-,-
 swgr,-,-,-,186,C++,-,124,-,1,-,-,-1,0,-,-,-,not declared,-,-,-
 syco,-,-,-,12,C++,-,67,-,0,-,-,-1,0,-,-,14144,-,-,-,-
 szsz,-,-,-,30,C#,-,216,-,0,-,-,1,0,-,-,6144,-,: System.IO.FileNotFoundException,-,-
